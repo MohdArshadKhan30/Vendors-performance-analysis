@@ -23,7 +23,7 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 This analysis addresses these issues by leveraging data-driven insights.
 
-# 🔍 Key Insights
+### 🔍 Key Insights
 
 * Brands for Pricing Adjustments: 198 brands with low sales but high margins could benefit from promotions and targeted marketing.
 
@@ -33,25 +33,25 @@ This analysis addresses these issues by leveraging data-driven insights.
 
 * Top Vendors:
 
- - Diageo North America Inc. dominates with $68M in sales and $17.89M gross profit.
+ -- Diageo North America Inc. dominates with $68M in sales and $17.89M gross profit.
 
- - Martignetti Companies follows with $39M in sales.
+ -- Martignetti Companies follows with $39M in sales.
 
 * Top Brands:
 
-- Jack Daniels No 7 Black ($7.96M),
+-- Jack Daniels No 7 Black ($7.96M),
 
-- Tito’s Handmade Vodka ($7.40M),
+-- Tito’s Handmade Vodka ($7.40M),
 
-- Grey Goose Vodka ($7.21M).
+-- Grey Goose Vodka ($7.21M).
 
 * Correlation Findings:
 
-- Purchase price has minimal impact on revenue/profit.
+-- Purchase price has minimal impact on revenue/profit.
 
-- Sales prices rising often shrink profit margins.
+-- Sales prices rising often shrink profit margins.
 
-- Stock turnover doesn’t directly guarantee profitability.
+-- Stock turnover doesn’t directly guarantee profitability.
 
 ### 🛠️ Tech Stack
 
